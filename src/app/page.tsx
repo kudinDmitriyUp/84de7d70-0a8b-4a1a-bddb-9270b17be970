@@ -50,7 +50,7 @@ export default function Home() {
             { text: "Join Our Team", href: "contact" },
             { text: "Meet the Players", href: "team" }
           ]}
-          imageSrc="https://pixabay.com/get/g0e604dca9d07f8c1d684f7dbd7cb5ce35cdb24b9b3aaf4374d0262122be495510a50205b326adbd86ba2382539be32e9aa4a234a5a4463725c484d58f1cf738d_1280.jpg"
+          imageSrc="https://pixabay.com/get/gf33f9dbde9d02ef19af5feb3cffaff6f2e11ab83d182dfa0e8a2404cb4b3f21572efc027ac526b0b4dc171295260924c49a4c1800971a37999fd240c0e480f02_1280.jpg"
           imageAlt="Thunderbolts basketball team in action"
           imagePosition="right"
         />
