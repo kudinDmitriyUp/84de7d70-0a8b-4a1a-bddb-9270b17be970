@@ -42,7 +42,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Thunderbolts Basketball Team"
+          title="Hey-Bay"
           description="Join our championship-winning school basketball team and develop your skills, teamwork, and passion for the game under expert coaching"
           tag="Champions 2024"
           tagIcon={Trophy}
